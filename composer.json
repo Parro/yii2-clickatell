@@ -1,5 +1,5 @@
 {
-  "name": "albertborsos/yii2-clickatell",
+  "name": "Parro/yii2-clickatell",
   "description": "Yii2 extension implements Clickatell SMS sender",
   "version": "0.2.1",
   "type": "yii2-extension",
